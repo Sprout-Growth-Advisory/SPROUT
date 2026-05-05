@@ -1,0 +1,5 @@
+.DS_Store
+
+# Local logo/source exports kept out of the published site.
+assets/sprout-logo-source.png
+assets/sprout-logo-scene.png
