@@ -1,6 +1,6 @@
-# Sprout Growth Advisory
+# Sprout Growth Systems
 
-One-page landing page for Sprout Growth Advisory.
+One-page landing page for Sprout Growth Systems.
 
 ## Files
 
