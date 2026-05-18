@@ -2,6 +2,8 @@
 
 # Sprout Growth Systems
 
+Live domain: https://sproutgrowthsystems.com/
+
 ## Brand Identity
 
 Sprout Growth Systems is a modern growth systems company focused on helping service-based businesses stop losing leads and recover missed revenue through automation, follow-up systems, and client reactivation.
